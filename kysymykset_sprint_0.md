@@ -1,1 +1,1 @@
-
+- Tarkennusta käsitteeseen yhteisöt (occurrences).
