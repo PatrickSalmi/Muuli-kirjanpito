@@ -1,12 +1,12 @@
 ## Retro Sprint 0 (22.1.2024)
-Mad
+**Mad**
 - olemassa olevan koodin kunto
    - koodi sekavaa
    - huonosti dokumentaatiota
 - koodiin tutustuminen
 - tiimien välinen kommunikointi ei toiminut
 
-Sad
+**Sad**
 - olemassa olevan koodin kunto
    - spagettikoodia
    - huonosti dokumentaatiota
@@ -15,7 +15,7 @@ Sad
 - kysymysten huomiointi discordissa (kaikkien tulisi reagoida jotenkin)
 - maanantain aikainen herätys
 
-Glad
+**Glad**
 - projektin luonne/aihe mieluinen
 - asiakas on yhteistyökykyinen
 - asiakastapaamiset ja asiakkaan esitykset
