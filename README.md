@@ -4,8 +4,8 @@
 
 ## Roolit
 
-Puheenjohtaja: Matias
+Puheenjohtaja: Nooa
 
 Demovastaava: Patrick
 
-Kirjuri: Elli
+Kirjuri: Sanni
