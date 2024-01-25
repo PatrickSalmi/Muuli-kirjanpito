@@ -2,5 +2,5 @@
 - Onko parenteventID välttämätön?
 - Onko OccurrenceLocation model ok?
 - Tarkoittaako source_locality samaa kuin uusi OccurenceLocation mutta nimi vain eri?
-- Mitä tarkoittaa Karin Discord viestissä, että ”ks. sallitut arvot models.ForeignKey('ChoiceValue')”? 
+- Mitä tarkoittaa Karin Discord viestissä, että ”ks. sallitut arvot models.ForeignKey('ChoiceValue')”? Ei löytynyt sallittuja arvoja.
 - Voidaanko vaihtaa CSV formaatin tyyppi?
