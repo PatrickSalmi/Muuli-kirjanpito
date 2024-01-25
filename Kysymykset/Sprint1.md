@@ -1,5 +1,6 @@
-- tool.py on check funktioita, mikä on niiden tarkoitus lyhyesti?
+- tool.py:ssa on check funktioita, mikä on niiden tarkoitus lyhyesti?
 - Onko parenteventID välttämätön?
-- Onko OccurrenceLocation ok ja sama asia kuin source_locality?
-- Discordissa ”uusi kenttä (ks. sallitut arvot models.ForeignKey('ChoiceValue')” mistä löytyy sallitut arvot
+- Onko OccurrenceLocation model ok?
+- Tarkoittaako source_locality samaa kuin uusi OccurenceLocation mutta nimi vain eri?
+- Mitä tarkoittaa Karin Discord viestissä, että ”ks. sallitut arvot models.ForeignKey('ChoiceValue')”? 
 - Voidaanko vaihtaa CSV formaatin tyyppi?
