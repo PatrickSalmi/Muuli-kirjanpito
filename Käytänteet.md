@@ -1,1 +1,11 @@
-
+### Ryhmän käytänteet:
+- Riittävän kuvaavat commitit (esimerkiksi ei riitä pelkkä ”update”)
+- Branchit nimetään user storyjen mukaan
+- Kaikki (omat ryhmäläiset) hyväksyy pull requestit ennen kuin mergetään mainiin
+- Varmistetaan, että backlogi pysyy ajantasalla
+- Ollaan avoimia mahdollisista esiin tulleista ongelmista
+- Ajoissa palavereihin (ilmoitus, jos huomattavasti myöhässä)
+- Kun työskennellään yhdessä kampuksella, on suositeltavaa tai jopa vaadittua käyttää vain yhtä kuuloketta, jos haluaa kuunnella samalla musiikkia
+- Viikottaisia aikatauluja:
+    - ma, ke ja pe dailyt
+    - ke ja to 12-16 varattu tilat ryhmässä työskentelyyn kampuksella
