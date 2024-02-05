@@ -4,8 +4,8 @@
 
 ## Roolit
 
-Puheenjohtaja: Nooa
+Puheenjohtaja: Elli
 
-Demovastaava: Patrick
+Demovastaava: Nooa
 
-Kirjuri: Sanni
+Kirjuri: Niilo (Matias)
