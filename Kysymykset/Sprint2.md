@@ -1,0 +1,2 @@
+- SourceHabitat ja MasterHabitat välinen suhde: ManyToMany vai OneToMany?
+    - "Lisäksi kannattaa muistaa, että SourceHabitat pitäisi saada linkattua tarvittaessa useampaan MasterHabitatiin - vaikkapa kaikkiin kolmeen noista esimerkeistä." ??
