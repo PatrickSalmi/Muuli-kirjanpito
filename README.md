@@ -6,6 +6,6 @@
 
 Puheenjohtaja: Elli
 
-Demovastaava: Nooa
+Demovastaava: Matias
 
 Kirjuri: Niilo (Matias)
