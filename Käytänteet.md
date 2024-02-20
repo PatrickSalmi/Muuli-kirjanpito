@@ -1,7 +1,8 @@
 ### Ryhmän käytänteet:
 - Riittävän kuvaavat commitit (esimerkiksi ei riitä pelkkä ”update”) käskymuodossa ("add" vs. "added")
 - Branchit nimetään user storyjen mukaan tai muuten kuvaavasti
-- Kaikki (omat ryhmäläiset) hyväksyy pull requestit ennen kuin mergetään mainiin
+- Branch nimet kebab-case muotoilulla
+- Vähintään kaksi (omaa ryhmäläistä) hyväksyy pull requestit ennen kuin mergetään mainiin
 - Varmistetaan, että backlogi pysyy ajantasalla
 - Ollaan avoimia mahdollisista esiin tulleista ongelmista
 - Ajoissa palavereihin (ilmoitus, jos huomattavasti myöhässä)
