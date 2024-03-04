@@ -4,8 +4,8 @@
 
 ## Roolit
 
-Puheenjohtaja: Niilo
+Puheenjohtaja: Patrick
 
-Demovastaava: Nooa
+Demovastaava: Elli
 
-Kirjuri: Patrick
+Kirjuri: Nooa
