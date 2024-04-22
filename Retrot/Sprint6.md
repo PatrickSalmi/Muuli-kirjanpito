@@ -9,7 +9,7 @@
 
 
 **Sad**
-- demovastaavan koodi meni puihin koska migraatiot
+- demovastaavan rooli meni puihin koska kone/migraatiot ei toiminut
 - kaikki ei päässyt paikalle
 - ei jää aikaa tehdä kaikkea mitä suuniteltu
 
